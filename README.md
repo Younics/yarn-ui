@@ -1,1 +1,1 @@
-# yarn-ui
+# Yet Another React Native UI (Kit)
